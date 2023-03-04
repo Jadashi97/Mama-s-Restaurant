@@ -1,9 +1,12 @@
-import React from 'react'
+import React from 'react';
+import Routes from 
 
 const Header = () => {
   return (
     <div>
-      <img src="" alt="" />
+      <Routes>
+        
+      </Routes>
     </div>
   )
 }

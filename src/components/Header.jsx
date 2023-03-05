@@ -1,12 +1,9 @@
 import React from 'react';
-import Routes from 
 
 const Header = () => {
   return (
     <div>
-      <Routes>
-        
-      </Routes>
+      <p>Header will be here!</p>
     </div>
   )
 }
